@@ -1,4 +1,4 @@
-# Gorilla-Materials-Dissertation-Module-Materials
+# Gorilla-Dissertation-Module-Materials
 A repository containing materials for creating appropriate dissertation projects on Gorilla.sc
 
 
