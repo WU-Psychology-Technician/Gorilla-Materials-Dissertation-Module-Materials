@@ -8,4 +8,4 @@ A repository containing materials for creating appropriate dissertation projects
 
 ## Guide 
 
-Use `Wrexham-Logo.png` for placing the Wrexham logo on the top right of your consent forms. Set to 210 height. 
+Use `Wrexham-Logo.png` for placing the Wrexham logo on the top right of your consent forms (Questionnaire Builder 2). Set to 210 height. 
